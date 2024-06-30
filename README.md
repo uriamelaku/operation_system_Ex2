@@ -1,5 +1,5 @@
-### omer cohen
-### omer7530@gmail.com
+### uria melaku
+### ooriamelaku@gmail.com
 ##
 # Tic Tac Toe and mync Utility
 
